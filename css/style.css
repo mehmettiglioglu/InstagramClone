@@ -61,3 +61,6 @@ input.empty {
 .colorWhite{
   background-color:white;
 }
+.borderNone{
+  border: none;
+}
